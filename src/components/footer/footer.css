@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    color:white;
+    font-weight: bold;
+}
+
+.footer img {
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+}
+
+.footer img:hover {
+    transition: 0.5s;
+    height: 23px;
+    width: 23px;
+}
